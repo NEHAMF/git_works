@@ -4,3 +4,4 @@ git commit -m "your message"
 git push orgin main/master
 git push
 git pull
+git branch
